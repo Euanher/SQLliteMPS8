@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:Local="clr-namespace:Clothes"
+             x:Class="Clothes.MainPage">
+    <ContentPage.BindingContext>
+        <Local:MainVeiwModel/> 
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+    <StackLayout Margin="20,20,20,0">
+        <Entry x:Name="nameEntry"
+                Placeholder="Name"/>
+        <Entry x:Name="typeEntry"
+                   Placeholder="Type"/>
+        <Entry x:Name="colorEntry"
+               Placeholder="Color"/>
+        <Entry x:Name="amountEntry"
+               Placeholder="Amount"/>
+        <Entry x:Name="emailEntry"
+               Placeholder="Email"/>
+        <Entry x:Name ="phonenumberEntry"
+               Placeholder="PhoneNumber"/>
+        <Button Text="Save"
+                x:Name="saveButton"
+                Clicked="Savebutton_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
