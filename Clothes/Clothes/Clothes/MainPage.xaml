@@ -8,18 +8,26 @@
     </ContentPage.BindingContext>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Welcome to Fashion!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
     <StackLayout Margin="20,20,20,0">
-        <Entry x:Name="nameEntry"
+      <Entry x:Name="AdressEntry"
+                Placeholder="Address"/>
+       <Entry x:Name="t-shirtsizeEntry"
+                Placeholder="T-shirt Size"/>
+       <Entry x:Name="genderEntry"
+                Placeholder="Gender"/>
+        <Entry x:Name="dateoforderEntry"
+                Placeholder="Date of Order"/>
+      <Entry x:Name="nameEntry"
                 Placeholder="Name"/>
         <Entry x:Name="typeEntry"
                    Placeholder="Type"/>
-        <Entry x:Name="colorEntry"
-               Placeholder="Color"/>
+        <Entry x:Name="t-shirtcolorEntry"
+               Placeholder="T- shirt Color"/>
         <Entry x:Name="amountEntry"
                Placeholder="Amount"/>
         <Entry x:Name="emailEntry"
