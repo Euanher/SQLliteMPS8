@@ -30,9 +30,10 @@ namespace Clothes
                 Amount = amountEntry.Text,
                 PhoneNumber = phonenumberEntry.Text,
                 Color = colorEntry.Text,
-                T-Shirt = t-shirtEntry.Text,
+                T-ShirtSize = t-shirtSizeEntry.Text,
                 Gender = genderEntry.Text,
-                
+                T-shitColor = t-shirtcolorEntry.Text,
+                DateOfOrder = dateoforderEntry.Text,
 
 
             };
