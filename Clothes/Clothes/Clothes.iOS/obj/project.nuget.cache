@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tON78s32guJMWGyxbF+dYU+mgbTHmOFn0wLIQCeg/DV64whAimuZ8I32HqcF2eKp0ffyqCYis9FeXDP6S97pDQ==",
+  "dgSpecHash": "+L7fj+TKRElO0w9kDgMpzUmfCFN5r2Imp9nH1JbKwpnEAaxf14pbbjVqqAnntpTTlb26hOM3vBLh3CvGZChArw==",
   "success": true,
-  "projectFilePath": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj",
+  "projectFilePath": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EuanHeradien\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\EuanHeradien\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",

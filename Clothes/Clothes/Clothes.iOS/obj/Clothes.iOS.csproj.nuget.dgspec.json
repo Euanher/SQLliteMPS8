@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj": {}
+    "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj": {}
   },
   "projects": {
-    "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj": {
+    "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj",
+        "projectUniqueName": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj",
         "projectName": "Clothes.iOS",
-        "projectPath": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj",
+        "projectPath": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes.iOS\\Clothes.iOS.csproj",
         "packagesPath": "C:\\Users\\EuanHeradien\\.nuget\\packages\\",
-        "outputPath": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes.iOS\\obj\\",
+        "outputPath": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes\\Clothes.csproj": {
-                "projectPath": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes\\Clothes.csproj"
+              "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes\\Clothes.csproj": {
+                "projectPath": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes\\Clothes.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes\\Clothes.csproj": {
+    "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes\\Clothes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes\\Clothes.csproj",
+        "projectUniqueName": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes\\Clothes.csproj",
         "projectName": "Clothes",
-        "projectPath": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes\\Clothes.csproj",
+        "projectPath": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes\\Clothes.csproj",
         "packagesPath": "C:\\Users\\EuanHeradien\\.nuget\\packages\\",
-        "outputPath": "C:\\shoppingAPP\\Clothes\\Clothes\\Clothes\\obj\\",
+        "outputPath": "C:\\shoppingAPP\\SQLliteMPS8\\Clothes\\Clothes\\Clothes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
