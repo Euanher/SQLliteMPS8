@@ -24,6 +24,22 @@ namespace Clothes
             {
             get; internal set;
             }
+            public string T-shirt size
+            {
+                get; internal set;
+            }
+            public string Gender
+            {
+                get; internal set;
+            }
+            public string T-shirt color
+            {
+                get; internal set;
+            }
+            public string Address 
+            {
+                get; internal set;
+            }
 
             [MaxLength(10)]
             public string PhoneNumber 
