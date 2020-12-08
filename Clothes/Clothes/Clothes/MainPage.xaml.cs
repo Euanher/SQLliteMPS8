@@ -8,6 +8,7 @@ using Xamarin.Forms;
 using SQLitePCL;
 using Microsoft.Data.Sqlite;
 using SendGrid.Helpers.Mail;
+using Android.App;
 
 namespace Clothes
 {
@@ -18,7 +19,7 @@ namespace Clothes
             InitializeComponent();
             BindingContext = new MainVeiwModel();
         }
-        void Savebutton_Clicked(object sender, System.EventArgs e)
+         void Savebutton_Clicked(object sender, System.EventArgs e)
         {
             Content content = new Content()
             {
@@ -31,13 +32,7 @@ namespace Clothes
 
 
             };
-            using (SqliteConnection conn = new SqliteConnection(App.FilePath))
-            {
-                conn.CreateTable<Content>();
-                int rowsAdded = conn.Insert(Content);
-
-
-            }
+           
             {
 
             }
