@@ -26,9 +26,13 @@ namespace Clothes
                 Name = nameEntry.Text,
                 Email = emailEntry.Text,
                 Type = typeEntry.Text,
+                Address = address.Entry.Text,
                 Amount = amountEntry.Text,
                 PhoneNumber = phonenumberEntry.Text,
                 Color = colorEntry.Text,
+                T-Shirt = t-shirtEntry.Text,
+                Gender = genderEntry.Text,
+                
 
 
             };
